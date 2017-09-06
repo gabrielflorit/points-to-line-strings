@@ -7,9 +7,9 @@ Converts points to GeoJSON LineStrings.
 
 ## Usage
 
-Given the following csv,
+Given the following csv:
 
-```
+```txt
 name,hour,lat,lon
 alpha,0,17.2,-50.5
 alpha,6,16.6,-51.5
@@ -23,7 +23,7 @@ running this command:
 
 will output this:
 
-```
+```json
 {
   "type": "FeatureCollection",
   "features": [
