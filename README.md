@@ -66,9 +66,3 @@ will output this:
   ]
 }
 ```
-
-## TODO
-- order by something (e.g. hour in above example)
-- tell user if no stdin is present
-- let user specify lat/lon column names
-- maybe let user specify an input and output as alternatives to stdin/stdout.
