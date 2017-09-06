@@ -1,0 +1,15 @@
+{
+  "name": "pointsToLineStrings",
+  "version": "1.0.0",
+  "description": "Converts points to GeoJSON LineStrings",
+  "main": "index.js",
+  "author": "Gabriel Florit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielflorit/pointsToLineStrings.git"
+  },
+  "bin": {
+    "points-to-line-strings": "bin/pointsToLineStrings.js"
+  },
+  "license": "MIT"
+}
