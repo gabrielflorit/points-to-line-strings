@@ -9,7 +9,13 @@
     "url": "git+https://github.com/gabrielflorit/pointsToLineStrings.git"
   },
   "bin": {
-    "points-to-line-strings": "bin/pointsToLineStrings.js"
+    "points-to-line-strings": "bin/index.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "d3-dsv": "^1.0.7",
+    "get-stdin": "^5.0.1",
+    "lodash": "^4.17.4",
+    "yargs": "^8.0.2"
+  }
 }
