@@ -1,6 +1,6 @@
 {
   "name": "points-to-line-strings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts points to GeoJSON LineStrings",
   "main": "index.js",
   "author": "Gabriel Florit",
